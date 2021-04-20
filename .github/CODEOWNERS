@@ -622,6 +622,7 @@
 
 
 # Frontend unit tests
+/core/templates/components/entity-creation-services/story-creation.service.spec.ts
 /core/templates/**/*.spec.ts @nithusha21
 /core/templates/**/*Spec.ts @nithusha21
 /extensions/**/*.spec.ts @nithusha21
